@@ -26,3 +26,9 @@ function main(){
         b = Number.parseInt(b);
         console.log(AddTwoNumbers(a,b));
 }
+........................................................................................main solution...............................
+const AddTwoNumbers = (a,b) => {
+    
+    return a+b;
+};
+
